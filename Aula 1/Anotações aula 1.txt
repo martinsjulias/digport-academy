@@ -1,0 +1,6 @@
+Comando cmd p/ rodar go:
+
+clica com o botão direto na pasta do arquivo.go
+
+cmd steps: 
+go version >> go run *nome arquivo*.go
